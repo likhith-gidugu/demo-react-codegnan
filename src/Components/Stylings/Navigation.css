@@ -1,0 +1,18 @@
+.navbar{
+
+display: flex;
+justify-content: center;
+justify-content: space-around;
+background-color:rgb(152 131 116 / 52%);
+position:sticky;
+top:0px
+
+}
+.navbar a{
+    color: white;
+    /* background-color: rgb(23, 233, 222); */
+    /* background-color: rgb(rgb(124, 39, 39), green, blue); */
+    text-decoration: none;
+    padding: 0% 1%;
+    border-radius: 25px;
+}

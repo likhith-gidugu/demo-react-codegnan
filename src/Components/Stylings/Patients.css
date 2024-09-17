@@ -1,0 +1,7 @@
+.patient{
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/004/493/181/small/hospital-building-for-healthcare-background-illustration-with-ambulance-car-doctor-patient-nurses-and-medical-clinic-exterior-free-vector.jpg");
+    
+    min-height:90vh;
+    margin-top:-1px;
+    background-size: cover;
+}
